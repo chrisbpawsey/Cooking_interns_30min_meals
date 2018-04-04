@@ -1,2 +1,7 @@
 It is so a planet!
+<<<<<<< HEAD
 Weiqi Yang
+=======
+Chris Bording
+
+>>>>>>> 9ecc5ab56861a470f2d4701ae16dc9ad9efd1d96
